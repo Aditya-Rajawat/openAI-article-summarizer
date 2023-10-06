@@ -1,5 +1,7 @@
 # Build and Deploy Your Own ChatGPT AI SaaS Business with React
 
+- Live Demo : https://articlesummarizeropenai.netlify.app/
+
 # Features included:
 - setup a ReactJS project using Vite
 - create a responsive, beautiful UI/UX with a nice touch of glass morphism using Tailwind CSS
