@@ -8,7 +8,8 @@
 
 # *Setup of the project*
 
-- Create react app with vite : ```npm create vite@latest
+- Create react app with vite : ```
+  npm create vite@latest
   ```
 
 - Install Tailwind CSS & it's dependencies : ```
