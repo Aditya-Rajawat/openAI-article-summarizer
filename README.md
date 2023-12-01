@@ -5,3 +5,7 @@
 - *Live Link : https://articlesummarizeropenai.netlify.app/*
 
 - *Tech Stack : ReactJS, Redux Toolkit, Tailwind CSS*
+
+# *Setup of the project*
+
+- `npm create vite@latest`
