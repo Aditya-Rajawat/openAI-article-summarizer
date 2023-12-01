@@ -13,7 +13,7 @@
   npm create vite@latest
   ```
 
-- Install Tailwind CSS & it's dependencies :
+- Install tailwindcss via npm, and create your tailwind.config.js file :
 ```
 npm install -D tailwindcss
 npx tailwindcss init
