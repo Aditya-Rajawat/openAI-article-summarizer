@@ -8,12 +8,12 @@
 
 # *Setup of the project*
 
-- Create react app with vite :
+- Create react app with vite
  ```
   npm create vite@latest
   ```
 
-- Install tailwindcss via npm, and create your tailwind.config.js file :
+- Install tailwindcss via npm, and create your tailwind.config.js file
 ```
 npm install -D tailwindcss
 npx tailwindcss init
@@ -28,5 +28,11 @@ module.exports = {
   },
   plugins: [],
 }
+```
+-Add the Tailwind directives to your CSS
+```
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 ```
 
