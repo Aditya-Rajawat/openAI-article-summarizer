@@ -8,4 +8,5 @@
 
 # *Setup of the project*
 
-- `npm create vite@latest`
+- ```npm create vite@latest```
+
