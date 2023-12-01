@@ -8,5 +8,5 @@
 
 # *Setup of the project*
 
-- ```npm create vite@latest```
+- Create react app with vite : ```npm create vite@latest```
 
