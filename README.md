@@ -36,3 +36,8 @@ module.exports = {
 @tailwind utilities;
 ```
 
+- Install Redux Toolkit
+```
+npm install @reduxjs/toolkit
+```
+
