@@ -9,7 +9,7 @@
 # *Setup of the project*
 
 - Create react app with vite :
-- ```
+ ```
   npm create vite@latest
   ```
 
