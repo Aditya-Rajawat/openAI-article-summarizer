@@ -10,3 +10,8 @@
 
 - Create react app with vite : ```npm create vite@latest```
 
+- Install Tailwind CSS & it's dependencies : ```
+npm install -D tailwindcss
+npx tailwindcss init
+```
+
