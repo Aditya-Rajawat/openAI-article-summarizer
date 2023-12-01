@@ -29,7 +29,7 @@ module.exports = {
   plugins: [],
 }
 ```
--Add the Tailwind directives to your CSS
+- Add the Tailwind directives to your CSS
 ```
 @tailwind base;
 @tailwind components;
